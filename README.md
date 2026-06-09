@@ -8,12 +8,12 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F4B400&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nayara+🐶;FullStack+Developer+💻;Dog+Lover+🐾;Always+learning+new+things+✨"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nayara+🐶;FullStack+Developer+💻;Dog+Lover+🐾;Always+learning+new+things+✨"
   />
 </p>
 
 <p align="center">
-  🐾 FullStack • Java • React 🐾
+  💜 FullStack • Java • React 💜
 </p>
 
 ---
@@ -33,5 +33,5 @@
 ---
 
 <p align="center">
-  🦴 Coding with paw-sitive energy 🐾
+  🐾💜 Coding with paw-sitive energy 💜🐾
 </p>
