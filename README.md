@@ -4,7 +4,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MariaMomberg/MariaMomberg/output/pacman-contribution-graph.svg">
 </picture>
 
-<h1 align="center">🐶 Welcome to my World 🐾</h1>
+<h1 align="center">💕 Welcome to my World 🐾</h1>
 
 <p align="center">
   <img
@@ -18,7 +18,7 @@
 
 ---
 
-## 🐶 About Me
+## 💖 About Me
 
 > Desenvolvedora FullStack apaixonada por tecnologia, café e cachorrinhos.
 
