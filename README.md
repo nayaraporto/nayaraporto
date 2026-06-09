@@ -13,13 +13,6 @@
 
 ### 🐾 Sobre Mim
 
-```bash
-nayara@github:~$ whoami
-
-nayara@github:~$ ls interesses/
-
-nayara@github:~$ cat mensagem.txt
-
 "Codando com um cachorro ao lado fica tudo melhor."
 ```
 
@@ -28,15 +21,6 @@ nayara@github:~$ cat mensagem.txt
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,mysql,git,vscode" />
 </p>
-
-### 🐕 Status Atual
-
-```text
-🐶 Energia para programar   ██████████ 100%
-🦴 Amor por cachorros       ██████████ 100%
-📚 Aprendizado diário       ██████████ 100%
-☕ Dependência de café      ████████░░ 80%
-```
 
 ### 📊 GitHub Stats
 
