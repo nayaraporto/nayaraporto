@@ -20,7 +20,7 @@
 
 ## 💖 About Me
 
-> Desenvolvedora FullStack apaixonada por tecnologia, café e cachorrinhos.
+> Desenvolvedora FullStack.
 
 ---
 
