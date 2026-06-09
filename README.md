@@ -16,19 +16,7 @@
 ```bash
 nayara@github:~$ whoami
 
-👩 Nayara
-💻 Desenvolvedora FullStack
-🐶 Mãe de pet em tempo integral
-🌱 Sempre aprendendo
-🚀 Transformando ideias em código
-
 nayara@github:~$ ls interesses/
-
-🐾 cachorrinhos
-💻 programação
-☕ café
-🎮 games
-📚 tecnologia
 
 nayara@github:~$ cat mensagem.txt
 
